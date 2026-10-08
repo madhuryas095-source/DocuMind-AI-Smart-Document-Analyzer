@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix DocuMind – AI Smart Document Analyzer",
+  "description": "Understand Documents. Detect What Matters. Take Action. Offline \u0026 Online smart document analyzer with conflict detection, voice assistant, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
